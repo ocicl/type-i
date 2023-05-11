@@ -1,0 +1,10 @@
+* type-i
+
+This library tries to provide a way to detect what kind of type the
+given predicate is trying to check.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/guicho271828/type-i.git |
+| commit  | 4407a68                                        |
+| systems | type-i                                         |
+|---------+------------------------------------------------|
